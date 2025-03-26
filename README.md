@@ -1,8 +1,9 @@
 # overleaf llm assistant hacky repo
 
-this illustrates using the `overphloem` package to create a simple LLM assistant for Overleaf projects.
+this illustrates using my [`overphloem`](https://github.com/j6k4m8/overphloem) package to create a simple LLM assistant for Overleaf projects.
 
-> [!CAUTION] > **This is super hacky right now and totally could erase all your text!** In general that's recoverable via Overleaf history, but obviously that sucks!
+> [!CAUTION]
+> **This is super hacky right now and totally could erase all your text!** In general that's recoverable via Overleaf history, but obviously that sucks!
 
 ```bash
 # git clone this repo, then:
