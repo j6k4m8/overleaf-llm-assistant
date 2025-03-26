@@ -1,0 +1,14 @@
+[project]
+name = "overleaf-llm-assistant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.68.2",
+    "overphloem>=0.1.0",
+    "pydantic>=2.10.6",
+]
+
+[tool.uv.sources]
+overphloem = { path = "../overphloem", editable = true }
